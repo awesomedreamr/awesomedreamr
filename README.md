@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @awesomedreamr
+- 👋 Hi, I’m Dheeraj Kumar
 - 👀 I’m interested in writing codes and making websites
 - 🌱 I’m currently learning cyber security and software Devlopment 
 - 💞️ I’m looking to collaborate on ...
